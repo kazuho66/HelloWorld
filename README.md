@@ -1,3 +1,3 @@
 # HelloWorld
-##This is a markdown file
-$ git push
+## This is a markdown file
+$ git push -u origin datasciencecousera
